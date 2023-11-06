@@ -1,0 +1,5 @@
+D:\B4_2151050438_TranLeQuocThong\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\B4_2151050438_TranLeQuocThong\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\B4_2151050438_TranLeQuocThong\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\B4_2151050438_TranLeQuocThong\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\B4_2151050438_TranLeQuocThong\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
